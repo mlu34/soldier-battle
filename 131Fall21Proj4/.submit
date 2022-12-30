@@ -1,0 +1,11 @@
+# Submit server .submit file for
+#  Course CMSC131
+#  Project P4 -- Soldiers: Soldiers
+
+courseName=CMSC131
+semester=202108
+projectNumber=P4 -- Soldiers
+courseKey=4a003b60ffcaf561
+authentication.type=ldap
+baseURL=https://submit.cs.umd.edu:443/fall2021
+submitURL=https://submit.cs.umd.edu:443/fall2021/eclipse/SubmitProjectViaEclipse
